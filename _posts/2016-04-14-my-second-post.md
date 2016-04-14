@@ -2,7 +2,7 @@
 layout: post
 title: "My Second Post"
 description: ""
-category: 
+category: posts
 tags: [Coulee, love]
 ---
 {% include JB/setup %}
