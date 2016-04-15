@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My Second Post"
+title: "Cute Baby Alert!"
 description: ""
 category: posts
-tags: [Coulee, love]
+tags: [babies, love]
 ---
 {% include JB/setup %}
 
