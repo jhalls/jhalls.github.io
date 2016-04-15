@@ -11,5 +11,9 @@ tags: [Coulee, love]
 
 ### Coulee Bear at work
 
+
 ![Coulee Bear](IMG_0247.JPG "Coulee Bear")
 
+![Coulee Bear](/IMG_0247.JPG "Coulee Bear")
+
+![Coulee Bear](../IMG_0247.JPG "Coulee Bear")
