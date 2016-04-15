@@ -14,11 +14,11 @@ markdown: kramdown
 title : My Portfolio # New Blog title!
 tagline: Portfolio - Judy Halls
 author : Judy Halls
-  name : Judy Halls
-  email : jhalls@gmail.com
-  github : jhalls
-  twitter : jhalls
-  feedburner : feedname
+name :
+email : jhalls@gmail.com
+github : jhalls
+twitter : jhalls
+feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

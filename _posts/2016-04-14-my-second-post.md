@@ -9,5 +9,7 @@ tags: [Coulee, love]
 
 # IMAGES
 
+### Coulee Bear at work
+
 ![Coulee Bear](/IMG_0247.jpg "Coulee Bear")
 
